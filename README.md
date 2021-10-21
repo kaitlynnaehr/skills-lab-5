@@ -1,9 +1,10 @@
 # skills-lab-5
 skills lab 5 repository
-<<<<<<< HEAD
+
 Our code asks the user input for a name and age. It then takes the age of the person and subtracts it from the current year 
 in order to show what year they were born
 =======
 
-Our program asks the user to input their name and age. It calculates the year the user was born and then prints out the user's name and the year they were born. 
->>>>>>> 8f18e90f79dec75b3b1e6419a2c3579ff5e69369
+I chose the Apache license, because I thought it truly covered alot of ground. It highlights what is needed in order for someone to use our project up to and including giving credit, changing wording, etc. I also found it to be clear and easy to read. I wanted something that was professional, but that was not hard to be understand. That leads to hiccups in interperation and other unneeded battles. Overall, I found it useful and informative and thought it would serve our purpose well. 
+
+I chose to write my own code of conduct, because I thought this was something that was less easily just copied and pasted. There are certain things in my code of conduct that had I picked someone elses, I would not have been able to emphasize. By creating my own, I have full creative abilities over what was said. 
