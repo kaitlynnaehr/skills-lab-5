@@ -6,9 +6,9 @@ Our code asks the user input for a name and age. It then takes the age of the pe
 
 # How to use
 1. Clone the GitHub repository
-    a. Click the green Code button
-    b. Copy the HTTPS link
-    c. Type "git clone <link>" without quotes and replace <link> with the link copied
+  a. Click the green Code button
+  b. Copy the HTTPS link
+  c. Type "git clone <link>" without quotes and replace <link> with the link copied
 2. Open the Skills-Lab-5.ipynb file
 3. Run the code and follow the prompts
 4. The code will ask for your name and age, and will calculate the year you were born
