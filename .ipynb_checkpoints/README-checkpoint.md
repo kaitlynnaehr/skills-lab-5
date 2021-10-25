@@ -22,7 +22,7 @@ Our code asks the user input for a name and age. It then takes the age of the pe
 2. Make some changes
 3. Create a pull request to submit your changes 
 
-
+# Chosing license and code of conduct
 I chose the Apache license, because I thought it truly covered alot of ground. It highlights what is needed in order for someone to use our project up to and including giving credit, changing wording, etc. I also found it to be clear and easy to read. I wanted something that was professional, but that was not hard to be understand. That leads to hiccups in interperation and other unneeded battles. Overall, I found it useful and informative and thought it would serve our purpose well. 
 
 I chose to write my own code of conduct, because I thought this was something that was less easily just copied and pasted. There are certain things in my code of conduct that had I picked someone elses, I would not have been able to emphasize. By creating my own, I have full creative abilities over what was said. 
