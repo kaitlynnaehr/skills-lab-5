@@ -8,7 +8,9 @@ Our code asks the user input for a name and age. It then takes the age of the pe
 1. Clone the GitHub repository
   
     a. Click the green Code button
+    
     b. Copy the HTTPS link
+    
     c. Type "git clone <link>" without quotes and replace <link> with the link copied
     
 2. Open the Skills-Lab-5.ipynb file
